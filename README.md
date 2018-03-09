@@ -1,3 +1,6 @@
+![hackasm_debug_output.png](https://github.com/C5T2B7U/ruby_hack_assembler/blob/master/hackasm_debug_output.png)
+
+
 ### Ruby Nand2Tetris Hack Assembler
 
 
